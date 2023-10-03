@@ -1,0 +1,5 @@
+What is a remote repository? 
+
+A remote repository means a repository/version/copy of your project that is stored not locally on your computer, but rather on github/the internet/a larger network somewhere. 
+You could have multiple remote repositories, which could be possibly read-only or read/write.
+They are essential for collaborating and need to be managed with pushing and pulling data/commits to and from the repository to share changes/work you've done.
